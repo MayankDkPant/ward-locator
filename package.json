@@ -1,0 +1,12 @@
+{
+  "name": "ward-locator",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2",
+    "@turf/turf": "^7.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
